@@ -1,0 +1,42 @@
+body{
+    margin: 50px;
+}
+
+.clear{
+    width: 188px;
+    color: whitesmoke;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid saddlebrown;
+    border-radius: 8px;
+
+}
+div{
+    color: brown;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+.formstyle{
+    width: 370px;
+    height: 370px;
+    margin: auto;
+    border: 2px solid saddlebrown;
+    border-radius: 10px;
+}
+input{
+    width: 58px;
+    height: 28px;
+    border: 2px solid saddlebrown;
+    border-radius: 8px;
+    background-color: brown;
+    color: whitesmoke;
+}
+.answer{
+ width: 180px;
+ height: 25px; 
+ border: 2px solid saddlebrown;
+ border-radius: 8px;  
+ 
+}
